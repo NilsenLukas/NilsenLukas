@@ -1,10 +1,10 @@
 ## Hi, I'm Lukas Nilsen 👋
 
-<!--
+
 🚀 Check out my Portfolio
 
 I'm Lukas Nilsen, a motivated computer science graduate with hands-on experience in embedded systems, software development, web development, and database management. I love creating innovative solutions and exploring new technologies.
--->
+
 
 <!--
 📫 Reach me out!
