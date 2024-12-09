@@ -7,15 +7,20 @@ I'm Lukas Nilsen, a motivated computer science graduate with hands-on experience
 
 
 💼 What I Currently Do
-🔭 I’m a senior at University of Detroit Mercy, majoring in Computer Science with a minor in Leadership.
-🛠️ Over the last 2 summers I worked on embedded systems at General Dynamics Land Systems, gaining experience in server maintenance, Linux programming, and documentation. And as a cyber intern, automating workflows and redesigning web pages.
+
+I’m a senior at University of Detroit Mercy, majoring in Computer Science with a minor in Leadership.
+
+Over the last 2 summers I worked on embedded systems at General Dynamics Land Systems, gaining experience in server maintenance, Linux programming, and documentation. And as a cyber intern, automating workflows and redesigning web pages.
 
 
 🛠️ Top Technologies
+
 Programming Languages:
+
 C++, Java, Python, JavaScript, HTML, CSS, C#
 
 Frameworks & Tools:
+
 Vue, React, Tailwind CSS, Node, Linux, MySQL, MongoDB
 
 
