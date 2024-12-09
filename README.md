@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Lukas Nilsen 👋
 
 <!--
-**NilsenLukas/NilsenLukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Check out my Portfolio
 
-Here are some ideas to get you started:
+I'm Lukas Nilsen, a motivated computer science graduate with hands-on experience in embedded systems, software development, web development, and database management. I love creating innovative solutions and exploring new technologies.
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+📫 Reach me out!
+Email: nilsenlukasj@gmail.com
+LinkedIn: linkedin.com/in/lukas-nilsen
+-->
+
+<!-- 
+💼 What I Currently Do
+🔭 I’m a senior at University of Detroit Mercy, majoring in Computer Science with a minor in Leadership.
+🛠️ Over the last 2 summers I worked on embedded systems at General Dynamics Land Systems, gaining experience in server maintenance, Linux programming, and documentation. And as a cyber intern, automating workflows and redesigning web pages.
+-->
+
+<!-- 
+🛠️ Top Technologies
+Programming Languages:
+C++, Java, Python, JavaScript, HTML, CSS, C#
+
+Frameworks & Tools:
+Vue, React, Tailwind CSS, Node, Linux, MySQL, MongoDB
 -->
