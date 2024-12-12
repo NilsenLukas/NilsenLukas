@@ -24,7 +24,6 @@ C++, Java, Python, JavaScript, HTML, CSS, C#, Shell Scripting
 
 **Frameworks & Tools**:  
 Vue.js, React, Tailwind CSS, Node.js, Linux, MySQL, MongoDB
-Baltimore** and spent half my life in **Nigeria**, witnessing the impacts of environmental racism firsthand.
 
 ---
 
