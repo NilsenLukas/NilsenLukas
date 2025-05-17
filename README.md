@@ -13,7 +13,7 @@ I'm Lukas Nilsen, a motivated computer science graduate with hands-on experience
 ---
 
 ## 💼 What I Currently Do
-- 🔭 I’m a senior at **University of Detroit Mercy**, majoring in Computer Science with a minor in Leadership.
+- 🔭 I’m a recent graduate from **University of Detroit Mercy**, majoring in Computer Science with a minor in Leadership.
 - 🛠️ Over the past 2 summers, I worked on **embedded systems** and **cyber projects** at **General Dynamics Land Systems**, gaining experience in server maintenance, Linux programming, documentation, automating workflows and redesigning web pages.
 
 ---
